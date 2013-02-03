@@ -1,0 +1,20 @@
+<classroom>
+ <student>
+  <firstname>Albert</firstname> 
+  <lastname>Villaester</lastname> 
+  <course>BSCS</course> 
+  <age>23</age> 
+  </student>
+ <student>
+  <firstname>Joyce</firstname> 
+  <lastname>Almirante</lastname> 
+  <course>BSN</course> 
+  <age>19</age> 
+  </student>
+ <student>
+  <firstname>Ronie</firstname> 
+  <lastname>Penara</lastname> 
+  <course>BSCS</course> 
+  <age>20</age> 
+  </student>
+  </classroom>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tagClouds>
+  <einstellungen>
+    <allgemein modus="globus" breite="340" hoehe="250" hintergrundfarbe="0xFFFFFF" rahmenfarbe="0x327A17"/>
+    <wolke prozentsatz_vertikal=""/>
+    <globus radius="150" maximale_Drehgeschwindigkeit="3"/>
+    <fliegen geschwindigkeit_aktiv="" geschwindigkeit_passiv="" richtung=""/>
+    <schrift schriftart="Arial" kleinste_Schriftgr="12" groesste_Schriftgr="22" link_dekoration="underline"/>
+    <farbe wert="0x030100"/>
+    <farbe wert="0x040500"/>
+    <farbe wert="0x000000"/>
+    <farbe wert="0x000203"/>
+  </einstellungen>
+  <tag linkURL="http://msdn.microsoft.com/en-us/vcsharp/aa336706" prioritaet="1" text="Visual C#" target="_self"/>
+  <tag linkURL="http://msdn.microsoft.com/en-us/fsharp/cc742182" prioritaet="6" text="Visual F#" target="_self"/>
+  <tag linkURL="http://www.ucancode.net/" prioritaet="2" text="Visual C++" target="_self"/>
+  <tag linkURL="http://java.com/en/" prioritaet="8" text="Java" target="_self"/>
+  <tag linkURL="http://www.javascriptkit.com/" prioritaet="3" text="JavaScript" target="_self"/>
+  <tag linkURL="http://www.w3schools.com/html/" prioritaet="8" text="HTML" target="_self"/>
+  <tag linkURL="http://www.w3.org/MarkUp/SGML/" prioritaet="9" text="SGML" target="_self"/>
+  <tag linkURL="http://designshack.net/gallery" prioritaet="9" text="CSS" target="_self"/>
+  <tag linkURL="http://www.w3schools.com/xml/" prioritaet="10" text="XML" target="_self"/>
+  <tag linkURL="http://msdn.microsoft.com/en-us/vbasic/ms789056" prioritaet="2" text="VisualBasic" target="_self"/>
+  <tag linkURL="http://www.asp.net/" prioritaet="9" text="ASP.NET" target="_self"/>
+  <tag linkURL="http://phpwebsite.appstate.edu/" prioritaet="5" text="Php" target="_self"/>
+  <tag linkURL="http://www.ruby-lang.org/en/" prioritaet="7" text="Ruby" target="_self"/>
+  <tag linkURL="http://www.joomla.org/" prioritaet="3" text="Joomla" target="_self"/>
+  <tag linkURL="http://wordpress.org" prioritaet="4" text="WordPress" target="_self"/>
+  <tag linkURL="http://www.artisteer.com/" prioritaet="10" text="Artisteer" target="_self"/>
+  <tag linkURL="http://clojure.org/" prioritaet="7" text="Clojure" target="_self"/>
+  <tag linkURL="http://go.ninemsn.com.au/" prioritaet="4" text="Go" target="_self"/>
+  <tag linkURL="http://www.adampetersen.se/articles/lispweb.htm" prioritaet="9" text="Lisp" target="_self"/>
+  <tag linkURL="http://www.robertnz.net/cpp_site.html" prioritaet="3" text="C++" target="_self"/>
+  <tag linkURL="http://www.gofoxpro.com/" prioritaet="5" text="FoxPro" target="_self"/>
+  <tag linkURL="http://www.gofoxpro.com/" prioritaet="7" text="ECMAScript" target="_self"/>
+  <tag linkURL="http://www.gofoxpro.com/" prioritaet="10" text="Python" target="_self"/>
+  <tag linkURL="http://www.gofoxpro.com/" prioritaet="8" text="Perl" target="_self"/>
+  <tag linkURL="http://www.gofoxpro.com/" prioritaet="3" text="Fortran" target="_self"/>
+  <tag linkURL="http://www.gofoxpro.com/" prioritaet="5" text="Smalltalk" target="_self"/>
+  <tag linkURL="http://www.gofoxpro.com/" prioritaet="9" text="Scala" target="_self"/>
+  <tag linkURL="http://www.gofoxpro.com/" prioritaet="6" text="Prolog" target="_self"/>
+  <tag linkURL="http://www.gofoxpro.com/" prioritaet="9" text="SQL" target="_self"/>
+</tagClouds>
